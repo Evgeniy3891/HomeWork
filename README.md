@@ -4,4 +4,4 @@ ____________________________________
 
 # HARD SKILLS
 * Терминал
-    * Действия с файлами и директориями [Задание 1](https://github.com/Evgeniy3891/HomeWork/blob/main/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B.txt)
+    * Действия с файлами и директориями [Задание 1](https://github.com/Evgeniy3891/HomeWork/blob/main/HW1.md)
