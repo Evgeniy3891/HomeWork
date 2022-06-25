@@ -6,7 +6,9 @@ http://162.55.220.72:5005/terminal-hw-request
 
         curl http://162.55.220.72:5005/terminal-hw-request
 
-![результат](https://github.com/Evgeniy3891/HomeWork/blob/main/first_request.png) 
+*Результат*
+
+![результат1](https://github.com/Evgeniy3891/HomeWork/blob/main/first_request.png) 
 
 ___
 
@@ -24,5 +26,7 @@ ___
         ls -la
         mv a.txt b.txt aaa/
 
-![результат](https://github.com/Evgeniy3891/HomeWork/blob/main/script.png)
+*Результат*
+
+![результат2](https://github.com/Evgeniy3891/HomeWork/blob/main/script.png)
 ___
